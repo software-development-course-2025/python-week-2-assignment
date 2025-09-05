@@ -2,8 +2,6 @@
 
 This Python script demonstrates common list operations such as adding, inserting, extending, sorting, and finding elements.
 
----
-
 ## 🚀 How It Works
 
 1. Creates an empty list  
@@ -33,8 +31,6 @@ Final list: [10, 15, 20, 30, 40, 50, 60]
 
 Augusto Mate  
 📧 mate.augusto.mz@gmail.com
-
----
 
 ## 🪪 License
 
