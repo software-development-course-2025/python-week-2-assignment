@@ -12,20 +12,14 @@ This Python script demonstrates common list operations such as adding, inserting
 6. Sorts the list in ascending order  
 7. Finds the index of value `30` and prints it
 
----
-
 ## 💡 Example Output
 
 Index of 30: 4  
 Final list: [10, 15, 20, 30, 40, 50, 60]
 
----
-
 ## 📂 Files
 
 - `list_operations.py`: Python script with the list operations
-
----
 
 ## 🧑‍💻 Author
 
